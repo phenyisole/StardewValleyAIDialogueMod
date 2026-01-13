@@ -1,0 +1,32 @@
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\AIDialogueTestMod.csproj.AssemblyReference.cache
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\AIDialogueTestMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\AIDialogueTestMod.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\AIDialogueTestMod.deps.json
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\AIDialogueTestMod.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\AIDialogueTestMod.pdb
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\Stardew Valley.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\StardewModdingAPI.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\xTile.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\StardewValley.GameData.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\Steamworks.NET.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\GalaxyCSharp.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\Lidgren.Network.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\System.Data.HashFunction.Interfaces.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\BmFont.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\TextCopy.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\System.Data.HashFunction.xxHash.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\System.Data.HashFunction.Core.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\Stardew Valley.xml
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\StardewModdingAPI.xml
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\StardewModdingAPI.exe.config
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\MonoGame.Framework.xml
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\bin\Debug\net6.0\StardewValley.GameData.xml
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\AIDialog.462CD0A0.Up2Date
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\AIDialogueTestMod.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\refint\AIDialogueTestMod.dll
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\AIDialogueTestMod.pdb
+C:\Users\Will\Desktop\game\AIDialogueTestMod\AIDialogueTestMod\obj\Debug\net6.0\ref\AIDialogueTestMod.dll

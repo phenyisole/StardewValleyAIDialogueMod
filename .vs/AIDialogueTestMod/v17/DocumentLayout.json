@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|c:\\users\\will\\desktop\\game\\aidialoguetestmod\\aidialoguetestmod\\aidialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|solutionrelative:aidialoguetestmod\\aidialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|c:\\users\\will\\desktop\\game\\aidialoguetestmod\\aidialoguetestmod\\dialoguehistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|solutionrelative:aidialoguetestmod\\dialoguehistorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|c:\\users\\will\\desktop\\game\\aidialoguetestmod\\aidialoguetestmod\\characterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|solutionrelative:aidialoguetestmod\\characterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|c:\\users\\will\\desktop\\game\\aidialoguetestmod\\aidialoguetestmod\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|solutionrelative:aidialoguetestmod\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|c:\\users\\will\\desktop\\game\\aidialoguetestmod\\aidialoguetestmod\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|solutionrelative:aidialoguetestmod\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|c:\\users\\will\\desktop\\game\\aidialoguetestmod\\aidialoguetestmod\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637B7F48-C855-413C-BA39-800A4F97FFC1}|AIDialogueTestMod\\AIDialogueTestMod.csproj|solutionrelative:aidialoguetestmod\\modconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\CharacterProfile.cs",
+              "RelativeDocumentMoniker": "AIDialogueTestMod\\CharacterProfile.cs",
+              "ToolTip": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\CharacterProfile.cs",
+              "RelativeToolTip": "AIDialogueTestMod\\CharacterProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:01:28.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIDialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\AIDialogueManager.cs",
+              "RelativeDocumentMoniker": "AIDialogueTestMod\\AIDialogueManager.cs",
+              "ToolTip": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\AIDialogueManager.cs",
+              "RelativeToolTip": "AIDialogueTestMod\\AIDialogueManager.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAqwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:53:14.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogueHistoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\DialogueHistoryManager.cs",
+              "RelativeDocumentMoniker": "AIDialogueTestMod\\DialogueHistoryManager.cs",
+              "ToolTip": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\DialogueHistoryManager.cs",
+              "RelativeToolTip": "AIDialogueTestMod\\DialogueHistoryManager.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T16:01:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\ModConfig.cs",
+              "RelativeDocumentMoniker": "AIDialogueTestMod\\ModConfig.cs",
+              "ToolTip": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\ModConfig.cs",
+              "RelativeToolTip": "AIDialogueTestMod\\ModConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:52:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\GameContext.cs",
+              "RelativeDocumentMoniker": "AIDialogueTestMod\\GameContext.cs",
+              "ToolTip": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\GameContext.cs",
+              "RelativeToolTip": "AIDialogueTestMod\\GameContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAywBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T12:23:41.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\ModEntry.cs",
+              "RelativeDocumentMoniker": "AIDialogueTestMod\\ModEntry.cs",
+              "ToolTip": "C:\\Users\\Will\\Desktop\\game\\AIDialogueTestMod\\AIDialogueTestMod\\ModEntry.cs",
+              "RelativeToolTip": "AIDialogueTestMod\\ModEntry.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T11:24:39.682Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
